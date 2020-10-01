@@ -7,3 +7,4 @@
 
 ## Contents
 - [Ch1. 파이썬 기반의 머신러닝과 생태계 이해](https://github.com/nyongja/Python_MachineLearning_Perfect_Guide/tree/master/Chap1)
+- [Ch2. 사이킷런으로 시작하는 머신러닝](https://github.com/nyongja/Python_MachineLearning_Perfect_Guide/tree/master/Chap2)
